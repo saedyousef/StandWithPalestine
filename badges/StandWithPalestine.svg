@@ -1,15 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-ps" viewBox="0 0 640 480">
+<?xml version="1.0"?>
+<svg width="400" height="100"  version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="a">
       <path fill-opacity=".7" d="M-118 0h682.7v512H-118z"/>
     </clipPath>
+    <style>
+      .text{
+      fill:#FFFFFF;
+      text-weight:bold;
+      font-family:'Verdana';
+      font-size:11px;
+      }
+    </style>
   </defs>
-  <g clip-path="url(#a)" transform="translate(110.6) scale(.9375)">
-    <g fill-rule="evenodd" stroke-width="1pt">
-      <path d="M-246 0H778v170.7H-246z"/>
-      <path fill="#fff" d="M-246 170.7H778v170.6H-246z"/>
-      <path fill="#090" d="M-246 341.3H778V512H-246z"/>
-      <path fill="red" d="m-246 512 512-256L-246 0v512z"/>
-    </g>
+  <g shape-rendering="crispEdges">
+    <rect x="5" width="117" height="13.26" style="fill:#545454;" />
+    <rect x="122.9" width="30" height="4.26" style="fill:black;stroke-width:3;" />
+    <rect x="122.9" y="4.36" width="30" height="4.26" style="fill:white;stroke-width:3;" />
+    <rect x="122.9" y="8.53" width="30" height="4.26" style="fill:green;stroke-width:3;" />
+    <polygon points="122.9,12.8 135, 6.4 122.9,0" style="fill:red;stroke:red;" />
+  </g>
+  <g text-rendering="geometricPrecision">
+    <text y="1" transform="matrix(1 0 0 1 6.166 10)" class="text">#StandWithPalestine</text>
   </g>
 </svg>
