@@ -30,10 +30,10 @@
     </style>
     <g shape-rendering="crispEdges">
         <rect width="127.9" height="20" class="gray so" />
-        <rect x="127.9" width="32" height="6.6" class="black so flag-line-height" />
-        <rect x="127.9" y="6.6" width="32" height="6.6" class="white so " />
+        <rect x="127.9" width="32" height="7.6" class="black so flag-line-height" />
+        <rect x="127.9" y="7.6" width="32" height="6.6" class="white so " />
         <rect x="127.9" y="13.2" width="32" height="6.6" class="green so" />
-        <polygon points="127.9,20 137, 10 127.9,0" class="red so" />
+        <polygon points="127.9,20 139, 10 127.9,0" class="red so" />
     </g>
     <g text-rendering="geometricPrecision">
         <text y="3.5" transform="matrix(1 0 0 1 6.166 10)" class="text">#IStandWithPalestine</text>
