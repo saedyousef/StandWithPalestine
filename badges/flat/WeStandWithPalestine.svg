@@ -2,29 +2,25 @@
 <svg width="172" height="20"  version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#WeStandWithPalestine: 🇵🇸">
     <style>
         .text{
-        fill:#FFFFFF;
-        text-weight:bold;
-        font-family:'Verdana';
-        font-size:11px;
+            fill:#FFFFFF;
+            text-weight:bold;
+            font-family:'Verdana';
+            font-size:11px;
         }
         .green {
-        fill: green;
+            fill: green;
         }
         .red {
-        fill: red;
+            fill: red;
         }
         .black {
-        fill: black
+            fill: black
         }
         .white {
-        fill: white
+            fill: white
         }
         .gray {
-        fill: #545454
-        }
-        .so {
-        stroke: white;
-        stroke-opacity: .7;
+            fill: #545454
         }
 
     </style>

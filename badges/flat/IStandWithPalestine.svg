@@ -22,10 +22,6 @@
         .gray {
             fill: #545454
         }
-        .so {
-            stroke: white;
-            stroke-opacity: .7;
-        }
     </style>
     <g shape-rendering="crispEdges">
         <rect width="127.9" height="20" class="gray" />
