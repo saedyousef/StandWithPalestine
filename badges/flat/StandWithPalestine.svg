@@ -7,15 +7,30 @@
         font-family:'Verdana';
         font-size:11px;
       }
+    .green {
+      fill: green;
+    }
+    .red {
+      fill: red;
+    }
+    .black {
+      fill: black
+    }
+    .white {
+      fill: white
+    }
+    .gray {
+      fill: #545454
+    }
   </style>
   <g shape-rendering="crispEdges">
-    <rect width="124" height="20" style="fill:#545454;" />
-    <rect x="122.9" width="30" height="6.6" style="fill:black;stroke-width:3;" />
-    <rect x="122.9" y="6.6" width="30" height="6.6" style="fill:white;stroke-width:3;" />
-    <rect x="122.9" y="13.2" width="30" height="6.6" style="fill:green;stroke-width:3;" />
-    <polygon points="122.9,20 135, 10 122.9,0" style="fill:red;stroke:red;" />
+    <rect width="124" height="20" class="gray" />
+    <rect x="122.9" width="30" height="6.6" class="black" />
+    <rect x="122.9" y="6.6" width="30" height="6.6" class="white"/>
+    <rect x="122.9" y="13.2" width="30" height="6.6" class="green" />
+    <polygon points="122.9,20 135, 10 122.9,0" class="red" />
   </g>
   <g text-rendering="geometricPrecision">
-    <text y="3.5" transform="matrix(1 0 0 1 6.166 10)" class="text">#StandWithPalestine</text>
+    <text y="14" x="3" class="text">#StandWithPalestine</text>
   </g>
 </svg>

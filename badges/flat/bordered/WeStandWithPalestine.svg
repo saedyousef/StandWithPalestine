@@ -36,6 +36,6 @@
         <polygon points="139.9,20 150, 10 139.9,0" class="red so" />
     </g>
     <g text-rendering="geometricPrecision">
-        <text y="3.5" transform="matrix(1 0 0 1 6.166 10)" class="text">#WeStandWithPalestine</text>
+        <text y="14" x="3" class="text">#WeStandWithPalestine</text>
     </g>
 </svg>
