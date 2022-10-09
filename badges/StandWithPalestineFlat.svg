@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg width="155" height="14"  version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#StandWithPalestine: 🇵🇸">
+<svg width="155" height="20"  version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#StandWithPalestine: 🇵🇸">
   <style>
     .text{
       fill:#FFFFFF;
@@ -9,13 +9,13 @@
     }
   </style>
   <g shape-rendering="crispEdges">
-    <rect width="124" height="13.26" style="fill:#545454;" />
-    <rect x="122.9" width="30" height="4.26" style="fill:black;stroke-width:3;" />
-    <rect x="122.9" y="4.36" width="30" height="4.26" style="fill:white;stroke-width:3;" />
-    <rect x="122.9" y="8.53" width="30" height="4.26" style="fill:green;stroke-width:3;" />
-    <polygon points="122.9,12.8 135, 6.4 122.9,0" style="fill:red;stroke:red;" />
+    <rect width="124" height="20" style="fill:#545454;" />
+    <rect x="122.9" width="30" height="6.6" style="fill:black;stroke-width:3;" />
+    <rect x="122.9" y="6.6" width="30" height="6.6" style="fill:white;stroke-width:3;" />
+    <rect x="122.9" y="13.2" width="30" height="6.6" style="fill:green;stroke-width:3;" />
+    <polygon points="122.9,20 135, 10 122.9,0" style="fill:red;stroke:red;" />
   </g>
   <g text-rendering="geometricPrecision">
-    <text y="0.5" transform="matrix(1 0 0 1 6.166 10)" class="text">#StandWithPalestine</text>
+    <text y="3.5" transform="matrix(1 0 0 1 6.166 10)" class="text">#StandWithPalestine</text>
   </g>
 </svg>
