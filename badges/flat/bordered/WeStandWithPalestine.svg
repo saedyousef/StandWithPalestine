@@ -33,7 +33,7 @@
         <rect x="139.9" width="32" height="7.6" class="black so" />
         <rect x="139.9" y="7.6" width="32" height="6.6" class="white so " />
         <rect x="139.9" y="13.2" width="32" height="6.6" class="green so" />
-        <polygon points="139.9,20 150, 10 139.9,0" class="red so" />
+        <polygon points="139.9,20 150, 10 139.9,0" class="red" />
     </g>
     <g text-rendering="geometricPrecision">
         <text y="14" x="3" class="text">#WeStandWithPalestine</text>
