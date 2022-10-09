@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<svg width="140" height="20"  version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="#FreePalestine: 🇵🇸">
+    <style>
+        .text {
+            fill:#FFFFFF;
+            text-weight:bold;
+            font-family:'Verdana';
+            font-size:11px;
+        }
+        .green {
+            fill: green;
+        }
+        .red {
+            fill: red;
+        }
+        .black {
+            fill: black
+        }
+        .white {
+            fill: white
+        }
+        .gray {
+            fill: #545454
+        }
+    </style>
+    <g shape-rendering="crispEdges">
+        <rect width="91" height="20" class="gray" />
+        <rect x="90.9" width="30" height="6.6" class="black" />
+        <rect x="90.9" y="6.6" width="30" height="6.6" class="white"/>
+        <rect x="90.9" y="13.2" width="30" height="6.6" class="green" />
+        <polygon points="90.9,20 103, 10 90.9,0" class="red" />
+    </g>
+    <g text-rendering="geometricPrecision">
+        <text y="14" x="3" class="text">#FreePalestine</text>
+    </g>
+</svg>
