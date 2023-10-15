@@ -9,7 +9,7 @@
 </div>
 <br>
 
-## Badges "IStandWithPalestine, IStandWithPalestine, WeStandWithPalestine, MadeInPalestine" Light/ Dark previews
+## Badges "StandWithPalestine, IStandWithPalestine, WeStandWithPalestine, MadeInPalestine" Light/ Dark previews
 <div align="center">
   <img src="badges/flat/IStandWithPalestine.svg" alt="IStandWithPalestine" />
   <img src="badges/flat/StandWithPalestine.svg" alt="StandWithPalestine" />
